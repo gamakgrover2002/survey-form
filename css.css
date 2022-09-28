@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(2, 254, 2);
+
+}
+form{
+  background-color: white;
+  height: 600px;
+  width: 60%;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  background-color: #fff;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px 20px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+button {
+  background-color: #05c46b;
+  border: 1px solid #777;
+  border-radius: 2px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+  width: 40%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
